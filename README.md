@@ -6,3 +6,4 @@
 - 실험결과를 반환합니다.
   - `{chance}의 확률로 {uplift}개선`
 - 앰플리튜드의 chance to outperform을 python에서도 동일하게 구현하기위해 만듬
+  - [[Amplitude] How Amplitude calculates chance to outperform](https://help.amplitude.com/hc/en-us/articles/360053484751-FAQ-How-Amplitude-calculates-chance-to-outperform-and-statistical-significance-in-A-B-tests)
